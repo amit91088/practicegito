@@ -4,3 +4,7 @@ a= a+b
 
 # subsraction
 c= a-b
+
+
+# multi
+v =a*b
