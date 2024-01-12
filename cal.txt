@@ -1,0 +1,6 @@
+#addition
+a= a+b
+
+
+# subsraction
+c= a-b
