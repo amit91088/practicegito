@@ -8,3 +8,9 @@ c= a-b
 
 # multi
 v =a*b
+
+
+
+###division
+c=o/p
+
